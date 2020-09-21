@@ -24,8 +24,6 @@ def susan(s):
        sleep(1./12)
 print(color.b + color.l + color.w)
 os.system('clear')
-susan("Progaram By Noob Programmer")
-susan("https://www.youtube.com/Noob Programmer")
 
 susan("only education  propose  support by ethical hacking ")
 susan("waring only use your local network ")
